@@ -2,11 +2,11 @@
 
 <h3 align="center">I am passionate about:</h3>
 
-<ul>
-  <li align="center">🤖 Machine Learning</li>
-  <li align="center">🌐 Internet of Things (IoT)</li>
-  <li align="center">🤖 Robotics</li>
-  <li align="center">📊 Data Analysis in Excel</li>
+<ul align="center">
+  <li>🤖 Machine Learning</li>
+  <li>🌐 Internet of Things (IoT)</li>
+  <li>🤖 Robotics</li>
+  <li>📊 Data Analysis in Excel</li>
 </ul>
 
 <p align="center">🎓 Graduated from CUET in Mechatronics and Industrial Engineering.</p>
