@@ -3,7 +3,7 @@
 <h3>I am passionate about:</h3>
 
 <ul >
-  <li> Web Development</li>
+  <li>💻Web Development</li>
   <li>🤖 Machine Learning</li>
   <li>🌐 Internet of Things (IoT)</li>
   <li>🤖 Robotics</li>
