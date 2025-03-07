@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sanjida Afrin Mou</h1>
-<h3>I am passionate about:</h3>
-<h4 align="center"> 🤖 Machine Learning</h4>
-<h4 align="center"> 🌐 Internet of Things (IoT) </h4>
-<h4 align="center"> 🤖 Robotics </h4>
-<h4 align="center">📊 Data Analysis in Excel</h4>
-<p> 🎓 Graduated from CUET in Mechatronics and Industrial Engineering.📚 Currently pursuing an MSc in Mechanical Engineering at CUET. 🚀 I love learning new things and working on innovative projects!📫 Let's connect and collaborate!</p>
+
+<h3 align="center">I am passionate about:</h3>
+
+<ul>
+  <li align="center">🤖 Machine Learning</li>
+  <li align="center">🌐 Internet of Things (IoT)</li>
+  <li align="center">🤖 Robotics</li>
+  <li align="center">📊 Data Analysis in Excel</li>
+</ul>
+
+<p align="center">🎓 Graduated from CUET in Mechatronics and Industrial Engineering.</p>
+<p align="center">📚 Currently pursuing an MSc in Mechanical Engineering at CUET.</p>
+<p align="center">🚀 I love learning new things and working on innovative projects!</p>
+<p align="center">📫 Let's connect and collaborate!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjidaafrin25&label=Profile%20views&color=0e75b6&style=flat" alt="sanjidaafrin25" /> </p>
 
