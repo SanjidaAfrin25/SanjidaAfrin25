@@ -13,13 +13,12 @@
 <p>🎓 Graduated from CUET in Mechatronics and Industrial Engineering.</br>
 📚 Currently pursuing an MSc in Mechanical Engineering at CUET.</br>
 🚀 I love learning new things and working on innovative projects!</br>
-📫 Let's connect and collaborate!</p>
+📫 Let's connect and collaborate!</br>
+🌱 I’m currently learning Python, Machine learning, Power BI
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjidaafrin25&label=Profile%20views&color=0e75b6&style=flat" alt="sanjidaafrin25" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjidaafrin25" alt="sanjidaafrin25" /></a> </p>
-
-- 🌱 I’m currently learning **Python, Machine learning, Power BI**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
